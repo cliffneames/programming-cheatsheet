@@ -5,3 +5,12 @@ h1{
 p{
   color: blue;
 }
+
+div {
+  border: dashed 1px red;
+  
+}
+
+span {
+  border: solid 1px blue;
+}
